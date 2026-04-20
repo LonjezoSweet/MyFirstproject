@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 main(){
-    cout<<"okay"<<endl;
+    cout<<"okay github"<<endl;
     return 0;
 }
